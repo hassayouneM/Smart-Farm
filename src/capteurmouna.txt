@@ -1,0 +1,5 @@
+hello Temperature Veinasa 57 0
+tedd Temperature Dr.meter 35 1
+lalala Temperature Mooncity 25 1
+gogo Temperature Veinasa 35 0
+154 Humidite Mooncity 12 0
